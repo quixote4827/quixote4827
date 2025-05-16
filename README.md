@@ -1,4 +1,6 @@
-## Hi there 👋
+## Happy Coding!
+
+&nbsp;I am Seohyun Kim, majoring in Computer Education at Jeju National University. I enjoy challenging algorithmic problems and solving them myself. I want to continue to study algorithms and become a problem solver.
 
 <!--
 **quixote4827/quixote4827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
